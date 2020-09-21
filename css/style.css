@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&family=Changa:wght@800&family=Quicksand:wght@300;400&display=swap');
+body{
+    font-family:quicksand;
+	font-size: 14px;
+	color: #717A81;
+	
+}
+
+header{
+background-color: #000;
+	padding: 20px 0;
+	
+}
+header h1{
+	font-family:Changa;
+	color:#EFC6FF;
+	font-size: 54px;
+	text-transform: uppercase;
+}
+#hero{
+	background-image: url("../img/cver2-01.jpg");
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 100px 0;
+	color: #E0BBFE;
+}
+#hero h2{
+padding: 30px 0px ;
+	text-align: left;
+	color:#fff;
+	text-transform: uppercase;
+}
+.bg-me{
+	background-image: url("../img/2018-04-04-01-59-00.jpeg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 100px 0;
+}
+#me h2{
+	font-family:Changa;
+	color:#3A037D;
+	text-transform: uppercase;
+	padding: 80px 20px 20px;
+}
+#me p{
+	padding: 10px 20px 50px;
+	font-size:18px;
+}
+footer #info{
+	background-color: #000;
+	padding: 10px 0;
+	color:#fff;
+}
+footer #info h2{
+	font-family:Changa;
+	text-transform: uppercase;
+	color:#fff;
+	padding-top: 20px; 
+}
+footer i{
+	color: #87DDFF;
+	padding: 10px;
+	padding-top: 30px;  
+}
+footer #copy{
+	background-color: #000;
+	padding: 10px 0;
+	color:#87DDFF;
+	text-align: center;
+}
+#services {
+	background-color: #000;
+	text-align: center;
+
+} 
+
+
+#services article{
+	padding-left: 25px;
+	padding-right: 25px;
+}
+#services .info-review{
+	background-color: #fff;
+	padding: 35px 20px;
+	box-shadow: 0px 0px 10px 2px #000;
+}
+#services .title{
+	text-transform: uppercase;
+	font-family:Changa;
+text-align: center;
+	padding: 40px 0;
+	color:#FFFFFF;
+	
+}
+#services h3  {
+	font-family:Changa;
+	color:#170337;
+	padding: 20px 0;
+	text-transform: uppercase;
+	
+}
+#slides h3{
+	text-transform: uppercase;
+	font-family:Changa;
+	color:#FFFFFF;
+	padding: 50px 0;
+	text-align: center;
+}
+#slides, #slidesd{
+	background-color: #000;
+	
+	
+}
+
+#slidesd h3, #slidese h3{
+	font-family:Changa;
+	color:#FFFFFF;
+	padding: 50px 0;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#slidese{
+	background-color: #000;
+	padding-bottom: 80px;
+	
+}
+#contact h4{
+	padding-top:50px;
+}
+#contact .fas {
+	width: 60px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	color: #2C0146;
+	font-size: 26px;
+	padding-top:50px;
+}
+#contact {
+	padding:50px 0;
+	background-color: #DDAFFF;
+	color:#000;
+}
